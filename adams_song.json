@@ -1,4 +1,8 @@
-I never thought I'd die alone
+Artist: Blink 182
+Song title: Adam's Song
+Lyrics:
+lyrics =
+"I never thought I'd die alone
 I laughed the loudest, who'd have known?
 I trace the cord back to the wall
 No wonder it was never plugged in at all
@@ -42,3 +46,4 @@ The world is wide, the time goes by
 The tour is over, I've survived
 I can't wait 'til I get home
 To pass the time in my room alone
+print(lyrics)"
